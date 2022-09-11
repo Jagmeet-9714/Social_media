@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Jaggy9714:9714@devconnector.rh9d01c.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "ecee0368d44001969e35",
+    "githubSecret": "6b4bd307f5d286f9189f417775babd91f9e60787"
+}
